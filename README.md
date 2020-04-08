@@ -6,7 +6,7 @@
 本次待开发的软件为基于PyTorch的前沿深度学习算法集成应用程序接口，该应用程序接口可在任何支持规定版本Python环境的计算终端进行安装和调用。目标用户为深度学习领域的科研人员，用户通过使用该应用程序接口在个人计算终端完成前沿深度学习算法的调用和模型及其他结果的生成。通过使用该软件，相关科研人员可以减少复现过往论文的工作，提高科研的效率和质量。
 
 ## 系统架构图
-![architecture](C:\Users\Phoenix\Desktop\architecture.jpg)
+![architecture](http://m.qpic.cn/psc?/V13FMT3Z4Cutm7/svpzve4PvuTHjdyhgQ9zLqJtg70ycAzl2Gb3QXJlcVT2jjDisWOyJK6fdZeeKjs730rFxjndRIEgiBaKnhbtzw!!/mnull&bo=4QPHAQAAAAARBxQ!&rf=photolist&t=5)
 
 ## 程序运行环境
 
