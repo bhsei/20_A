@@ -16,6 +16,10 @@
 4. 内存：16G或更高
 5. 硬盘存储：500G或更高
 
+## 产品演示视频
+
+[Demo Video](https://www.bilibili.com/video/BV19t4y1X7rS?t=101)
+
 ## 参考资料
 
 [1] GB-T8567-2006, 计算机软件文档编制规范[S].
